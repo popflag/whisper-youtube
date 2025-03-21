@@ -1,7 +1,7 @@
 # **Youtube Videos Transcription with Faster Whisper**
 
-[![notebook shield](https://img.shields.io/static/v1?label=&message=Notebook&color=blue&style=for-the-badge&logo=googlecolab&link=https://colab.research.google.com/github/ArthurFDLR/whisper-youtube/blob/main/whisper_youtube.ipynb)](https://colab.research.google.com/github/lewangdev/whisper-youtube/blob/main/faster_whisper_youtube.ipynb)
-[![repository shield](https://img.shields.io/static/v1?label=&message=Repository&color=blue&style=for-the-badge&logo=github&link=https://github.com/lewangdev/faster_whisper_youtube)](https://github.com/lewangdev/faster_whisper_youtube)
+[![notebook shield](https://img.shields.io/static/v1?label=&message=Notebook&color=blue&style=for-the-badge&logo=googlecolab&link=https://colab.research.google.com/github/popflag/faster-whisper-youtube/blob/main/whisper_youtube.ipynb)](https://colab.research.google.com/github/popflag/faster-whisper-youtube/blob/main/faster_whisper_youtube.ipynb)
+[![repository shield](https://img.shields.io/static/v1?label=&message=Repository&color=blue&style=for-the-badge&logo=github&link=https://github.com/popflag/faster-whisper-youtube)](https://github.com/popflag/faster-whisper-youtube)
 
 [faster-whisper](https://github.com/guillaumekln/faster-whisper) is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models.
 
